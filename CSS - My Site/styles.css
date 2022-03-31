@@ -1,0 +1,120 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1{
+  font-family: 'Gloria Hallelujah', cursive;
+  margin: 80px auto 0 auto;
+  color: #E1D89F;
+  font-size: 3.2em;
+}
+h2{
+  color: #E1D89F;
+  margin: 10px auto 10px auto;
+  font-size: 2.825em;
+  font-weight: normal;
+}
+h3{
+  color: #E1D89F;
+  margin: 10px auto 10px auto;
+  font-size: 2em;
+}
+p{
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #F3CF7A;
+  font-size: 1.3em;
+  line-height: 2em;
+}
+.topcontainer{
+  background-color: #233714;
+  margin: 0 auto;
+  position: relative;
+  padding-top: 60px;
+}
+.topcloud{
+  position: absolute;
+  left: 900px;
+  top:90px;
+}
+.bottomcloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.middlecontainer{
+  background-color: #233714;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 90px;
+  padding-bottom: 100px;
+}
+.hellop{
+  width: 30%;
+  margin: auto;
+}
+.me{
+  border-radius: 50%;
+}
+.skills{
+  padding-top: 80px;
+}
+.skillrow{
+  width: 60%;
+  margin: 80px auto 80px auto;
+  text-align: left;
+}
+.comp{
+  width:25%;
+  margin-right: 90px;
+  float: left;
+}
+.canvas{
+  width:25%;
+  margin-left: 90px;
+  float: right;
+}
+.bottomcontainer{
+  background-color: #8A8635;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.contactme{
+  padding: 50px;
+}
+.beforebtn{
+  margin-bottom: 100px;
+  margin-top: 40px;
+}
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #1C0A00;
+  font-size: 20px;
+  background: #F6D860;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 30px auto 30px auto;
+}
+.btn:hover {
+  background: #95CD41;
+  text-decoration: none;
+}
+.footerlink{
+  color: #E1D89F;
+  margin: 0 20px 20px 20px;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+.author{
+  margin-bottom: 0;
+  margin-top: 10px;
+  height: 10px;
+  font-size: 1em;
+}
